@@ -1,0 +1,34 @@
+
+ [
+      {
+        "titulo": "Moana 2",
+        "duraçao": "113m",
+        "genero": "Animaçao",
+         "poster": "https://www.exibidor.com.br/fotos/producoes/img_grande/finalundefined_1717001632.jpg"
+      },
+      {
+        "titulo": "Borderlands",
+        "duraçao": "102m",
+        "genero": "Aventura",
+        "poster": "https://sm.ign.com/ign_br/screenshot/default/image1_8ra2.jpg"
+      },
+      {
+        "titulo": "Deadpool e Wolverine",
+        "duraçao": "127m",
+        "genero": "Aventura",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBN0rfYqnFc7YolPRhRSTO2ZamEmcK2BYopA&s"
+      },
+      {
+        "titulo": "Como Vender a Lua",
+        "duraçao": "131m",
+        "genero": "Comedia",
+        "poster": "https://br.web.img3.acsta.net/img/e2/de/e2de12f581a54aba13aa98da19856541.jpg"
+      },
+      {
+        "titulo": "Coraline e o Mundo Secreto: 15º Aniversário",
+        "duraçao": "100m",
+        "genero": "Animaçao",
+         "poster": "https://cinemark.com.br/_next/image?url=https%3A%2F%2Fcdnim.prd.cineticket.com.br%2Fasset%2Fmovie%2F8476%2Fcoraline-e-o-mundo-secreto-poster-desktop-5955c.jpg&w=3840&q=100"
+      }
+]
+  

@@ -1,0 +1,33 @@
+
+[ 
+    {
+    "titulo": "Bad Boys: Até o Fim",
+    "duraçao": "115m",
+    "genero": "Ação",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWDVJAoSiuwXvKF3GRpFBdx7ltgvbpIE5RNw&sr"
+  },
+  {
+    "titulo": "Divertida Mente 2",
+    "duraçao": "100m",
+    "genero": "Animação",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsOy6rrF4GH7NuE9eZ9HzIE2uG1_1EnYn5tQ&s"
+  },
+  {
+    "titulo": "Um Lugar Silencioso - Dia Um",
+    "duraçao": "100m",
+    "genero": "Terror",
+    "poster": "https://media.fstatic.com/rT9Hxe7LDpcJUDnIeKwUyW6rzpo=/322x478/smart/filters:format(webp)/media/movies/covers/2024/06/cats_fX9LF5c.jpg"
+  },
+  {
+    "titulo": "Clube do Vândalos",
+    "duraçao": "116m",
+    "genero": "Drama",
+    "poster": "https://universoreverso.com.br/wp-content/uploads/2024/06/clube-dos-vandalos-poster-2.jpg"
+  },
+  {
+    "titulo": "To de graça - O filme",
+    "duraçao": "95m",
+    "genero": "Comedia",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGQ1NWNmN2QtZDRhNS00MmE1LWFkM2MtOWU1OGZmNDY5MGVhXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg"
+  }
+]

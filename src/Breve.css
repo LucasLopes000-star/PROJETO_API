@@ -1,0 +1,24 @@
+table{
+    font-size: 2.5rem;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+table img{
+    width: 300px;
+    height: 200px;
+}
+table tr td{
+   
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+td{
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+svg{
+    width: 50px;
+    fill: white;
+   position: absolute;
+   margin-left: -900px;
+}
